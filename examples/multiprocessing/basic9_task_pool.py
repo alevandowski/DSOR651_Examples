@@ -47,6 +47,10 @@ if __name__ == "__main__":
 
     pool = mp.Pool(process_count)
     start = time.time()
+    
+    # pool.map passes each element in 2nd iterable argument to the 
+    # first argument which specifies a function. The Processes in the Pool
+    # execute the first argument for each element in parallel.
     results = pool.map(run_task, tasks)
     print(sum(results))
     duration = time.time() - start
