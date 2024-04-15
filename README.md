@@ -13,7 +13,8 @@ This repository contains examples for DSOR 651. These examples are designed be e
  - Enter the git.antcenter.net:4567 as the registry
  - Enter you git.antcenter.net username as the IPS Username
  - Enter a name and press Save
-5. Click [here](https://hub.rangers.nhl.antcenter.net/environments/0?replicas%253D1%2526image%253Dgit.antcenter.net%253A4567%252Fnranly%252Fdsor-651-containers%253Alatest%2526proxyType%253Dnormal%2526resources%255Blimits%255D%255Bcpu%255D%253D1%2526shm%253D64Mi) to create a new development.
+5. Click [here](https://hub.rangers.nhl.antcenter.net/environments) and enter the following as the image namge git.antcenter.net:4567/nranly/dsor-651-containers:latest
+ to create a new development.
  - Configure as needed
  - Press Launch
 6. Your created and running environments are shown [here](https://hub.rangers.nhl.antcenter.net/environments).
