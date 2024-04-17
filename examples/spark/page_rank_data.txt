@@ -1,0 +1,7 @@
+http://www.yahoo.com   http://www.google.com
+http://www.yahoo.com   http://digg.com
+http://www.yahoo.com   http://myspace.com
+http://www.yahoo.com   http://slashdot.org
+http://aol.com         http://www.google.com
+http://www.google.com  http://myspace.com
+http://aol.com         http://slashdot.org
